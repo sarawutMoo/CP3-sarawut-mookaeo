@@ -1,0 +1,6 @@
+CSV
+name,favorite movie,favorite pet
+den,spider man,dog
+pack,harry potter,cat
+thong,inception,bird
+mose,bat man,fish
